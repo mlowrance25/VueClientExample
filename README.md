@@ -9,6 +9,7 @@ npm install
 ```
 npm run serve
 ```
+Open browser and navigate to localhost:8080
 
 ### Compiles and minifies for production
 ```
