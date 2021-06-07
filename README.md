@@ -11,15 +11,7 @@ npm run serve
 ```
 Open browser and navigate to localhost:8080
 
-### Compiles and minifies for production
+### Test App
 ```
-npm run build
+npx cypress open
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
